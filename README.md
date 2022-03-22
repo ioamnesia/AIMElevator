@@ -19,7 +19,7 @@ Clone the repository and run *dotnet run* from the repository directory. Once st
 ## Functionality
 | Functionality | Method | URI |
 | ------------- | ------ | --- |
-| Got All Elevators | GET | https://localhost:8080/elevators |
+| Get All Elevators | GET | https://localhost:8080/elevators |
 | Get Elevator | GET | https://localhost:8080/elevators/{id} |
 | Get All Queued Stops | GET | https://localhost:8080/elevators/{id}/stops |
 | Get Next Stop | GET |  https://localhost:8080/elevators/{id}/nextStop |
